@@ -1,0 +1,33 @@
+/* MovieList.css */
+.movie-list {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+  
+  .movie-list h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .movie-list ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .movie-list ul li {
+    margin-bottom: 10px;
+  }
+  
+  .movie-list ul li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+  }
+  
+  .movie-list ul li a:hover {
+    color: #007bff;
+  }
+  
